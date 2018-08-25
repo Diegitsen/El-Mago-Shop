@@ -41,7 +41,7 @@ import java.util.List;
 public class FirstFragment extends Fragment {
 
     private static final String TAG = FirstFragment.class.getSimpleName();
-    private static final String URL = "https://api.androidhive.info/json/movies_2017.json";
+    private static final String URL = "https://api.myjson.com/bins/h91fk";
 
     private RecyclerView recyclerView;
     private List<Movie> movieList;
