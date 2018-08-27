@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704225664798",
+    "firebase_url": "https://elmago-db2e1.firebaseio.com",
+    "project_id": "elmago-db2e1",
+    "storage_bucket": "elmago-db2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704225664798:android:2f0267c2a0dc28c8",
+        "android_client_info": {
+          "package_name": "com.example.diego.elmago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704225664798-itrkct81kc2edmlefh3n3gofteo2la51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diego.elmago",
+            "certificate_hash": "b602855626d96f98c22d826f5dd443dc3647fe41"
+          }
+        },
+        {
+          "client_id": "704225664798-040bv52q2i7gs68056crng3cq6olebus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiN3oQ7Y_lOamXEACorXEmgNsdXC1g_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704225664798-040bv52q2i7gs68056crng3cq6olebus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
